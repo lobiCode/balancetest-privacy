@@ -1,3 +1,7 @@
+---
+permalink: /privacy/
+---
+
 # Balance Test Privacy Policy
 
 **Effective date: 16 October 2026**

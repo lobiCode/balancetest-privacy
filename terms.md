@@ -1,3 +1,7 @@
+---
+permalink: /terms/
+---
+
 # Balance Test Terms of Use
 
 **Effective date: 16 October 2026**
