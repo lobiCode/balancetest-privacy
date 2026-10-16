@@ -56,4 +56,4 @@ after a change means you accept the updated terms.
 
 ## 7. Contact
 
-Questions about these terms: <travelya.app@gmail.com> (Uroš Slana).
+Questions about these terms: <usdevplay@gmail.com> (Uroš Slana).

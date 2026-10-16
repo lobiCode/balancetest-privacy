@@ -89,7 +89,7 @@ Balance Test stores your data only on your own device, so in almost every case y
 exercise your data rights directly in the app or by uninstalling it. For anything else,
 contact:
 
-- Email: <travelya.app@gmail.com>
+- Email: <usdevplay@gmail.com>
 - Developer: Uroš Slana
 
 Terms of use (liability, not a medical device):
